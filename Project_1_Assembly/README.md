@@ -58,7 +58,3 @@ Dupa scriere, fie ca suntem intr-un caz special sau nu, se v
 face salt la sfarsitul programului.
 
 ---------------------------------------------------------------
-
-Nu am reusit se rezolv celelalte task-uri, cu toate acestea a
-fost o tema interesanta care m-a ajutat sa imi aprofundez
-cunostiintele in limbajul de asamblare.
