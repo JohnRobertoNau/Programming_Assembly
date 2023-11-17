@@ -46,6 +46,3 @@ Dupa terminarea intercalarii, se sare la label-ul end unde este sfarsitul
 programului.
 
 ----------------------------------------------------------------------------
-
-A fost o tema interesanta, care m-a ajutat sa-mi aprofundez cunostiintele
-in limbajul de asamblare, chiar daca nu am reusit sa rezolv mai mult.
